@@ -1,4 +1,4 @@
-# dutt-arka.github.io
+# Arka Dutta
 
 ---------------------------------------------
 
@@ -11,8 +11,8 @@
 - 🔭 I’m currently persuing my B.Tech in Electronics Engineering @ NIT,Agartala
 - 🌱 I’m currently learning Business Analytics,Machine Learning and Data Science
 <!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
+- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Product,Analytics and Data
-- 📫 How to reach me: you can find me on twitter (https://twitter.com/dutt-arka) !
+- 📫 How to reach me: you can find me on [twitter](https://twitter.com/dutt_arka) !
 <!--- 😄 Pronouns: ...-->
 - ⚡ Interests: Finance,Risk Management and Flaneuring
